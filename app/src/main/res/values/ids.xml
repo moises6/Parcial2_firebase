@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView7" type="id" />
+    <item name="imageView" type="id" />
+    <item name="textView6" type="id" />
+    <item name="txtTituloRD" type="id" />
+    <item name="txtDescripcionRD" type="id" />
+    <item name="textView8" type="id" />
+    <item name="txtFechaRD" type="id" />
+    <item name="textView9" type="id" />
+    <item name="txtHoraRD" type="id" />
+    <item name="spinnerRD" type="id" />
+    <item name="btnGuardarRD" type="id" />
+</resources>

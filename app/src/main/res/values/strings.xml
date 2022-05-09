@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial2_firebase</string>
+    <string name="bienvenido_a2">BIENVENIDO/A</string>
+    <string name="correo_invalido" />
+    <string name="contraseña_invalida" />
+    <string name="Seleccione_Estatus" />
+    <string name="bienvenido_a">BIENVENIDO/A</string>
+    <string name="correo_de_usuario">Correo de usuario</string>
+    <string name="todo">TODO</string>
+    <string name="titulo">Titulo:</string>
+</resources>
